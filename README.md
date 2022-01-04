@@ -183,4 +183,18 @@ microburst - sure event. Therefore wherever there is a storm we
 will always encounter a microburst throughout the duration of
 the storm.
 
+## Software Verification and Testing
+For all the graphs attached below the x axis denotes time (in seconds) and y axis denotes
+windspeed(in mph)
 
+[To be added]
+
+## User Guide
+This program will generate a wind simulation based on the several parameters fed to it. The
+program takes in a file containing all these parameters as input. The user has to provide
+important information like average wind speed, gust value, time duration for the simulation
+they require, step size, probability of storm and microburst happening, maximum and minimum
+storm/microburst magnitude and duration in the form of an input file. The wind simulation will
+then be modelled by the software based on these parameters and the resultant files of wind
+speed, storms, microburst and the overall wind simulation will be provided to the user as
+output. The user can further go on to import and plot this data into a graph using excel.
