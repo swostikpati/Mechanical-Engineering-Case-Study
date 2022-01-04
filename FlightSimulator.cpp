@@ -1,14 +1,3 @@
-//*******************************************************************//
-//** Author: Swostik Pati                                          **//
-//** Date Created: 19/10/21                                        **//
-//** Assignment 2: Mechanical Engineering Case Study               **//
-//** Flight Simulator Wind Speed                                   **//
-//** ENGR-UH-1000 Computer Programming for Engineers, NYUAD        **//
-//** Problem:                                                      **//
-//** The objective of this software is to generate a               **//
-//** computer simulation of wind speed                             **//
-//*******************************************************************//
-
 //Importing dependencies
 #include <iostream>
 #include <cmath>
